@@ -94,7 +94,7 @@ const Body = () => {
               <th scope="col" id="rank" style={{ textAlign: "center" }}>
                 Rank
               </th>
-              <th scope="col" style={{ textAlign: "left" }}>
+              <th scope="col" className="ps-2" style={{ textAlign: "left" }}>
                 Name
               </th>
               <th scope="col">Price</th>

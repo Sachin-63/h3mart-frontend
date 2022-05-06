@@ -21,7 +21,7 @@ const Navbar = () => {
           </div>
           <div id="navMenu2" className="col-5">
             <div id="searchBtn2">
-              <ImSearch size="17px" className="mx-3 my-auto" />
+              <ImSearch size="23px" className=" my-auto" />
             </div>
           </div>
           <div className="col-2 d-flex justify-content-center">
@@ -34,7 +34,7 @@ const Navbar = () => {
               <strong>Connect Wallet</strong>
             </button>
           </div>
-          <div id="navMenu4" className="col-5 justify-content-end ">
+          <div id="navMenu4" className="col-5 justify-content-end pe-0">
             <a
               class=""
               data-bs-toggle="offcanvas"
@@ -43,8 +43,8 @@ const Navbar = () => {
               aria-controls="offcanvasExample"
             >
               <AiOutlineMenu
-                size="17px"
-                className="mx-3 my-auto"
+                size="23px"
+                className="me-0 my-auto"
                 color="black"
               />
             </a>

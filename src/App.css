@@ -199,9 +199,7 @@ nav{
 
     
 
-    .hideCol2{
-        display: none;
-    }
+    
 
     #banner{
         height: 300px;
@@ -263,6 +261,10 @@ nav{
 
     #dropdown{
         display: block;
+    }
+
+    .hideCol2 {
+        display: none;
     }
 
     #table {
